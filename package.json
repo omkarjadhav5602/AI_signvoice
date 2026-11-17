@@ -1,0 +1,11 @@
+{
+  "name": "signvoice-ai",
+  "version": "0.1.0",
+  "description": "Signvoice AI - Indian Sign Language to text and speech (prototype demo)",
+  "main": "demo-server.cjs",
+  "scripts": {
+    "start": "node demo-server.cjs"
+  },
+  "keywords": ["indian-sign-language", "accessibility", "mediapipe", "lstm", "text-to-speech"],
+  "license": "MIT"
+}
