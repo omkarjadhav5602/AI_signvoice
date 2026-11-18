@@ -1,0 +1,6 @@
+# Python 3.9 - 3.12.  (mediapipe 0.10.14 has no wheels for 3.13; newer mediapipe releases
+# removed the legacy `mp.solutions.holistic` API that this module uses, so keep this pin.)
+numpy>=1.23
+opencv-python>=4.8
+mediapipe==0.10.14
+pytest>=7        # only needed to run tests/

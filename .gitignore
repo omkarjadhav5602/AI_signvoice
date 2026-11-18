@@ -7,3 +7,10 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+
+# Python / dataset
+.venv/
+venv/
+.pytest_cache/
+dataset/
+*.npz
